@@ -1,5 +1,9 @@
 {
-  "name": "projectxbits",
+  "name": "ReactWhiteLabelProject",
+  "author": {
+    "name": "Rafael Alves",
+    "url": "https://github.com/RafaelAlves9/"
+  },
   "private": true,
   "version": "1.0.0",
   "type": "module",
